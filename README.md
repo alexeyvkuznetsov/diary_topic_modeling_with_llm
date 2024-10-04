@@ -3,4 +3,5 @@
 
 
 Тексты промптов и ответы модели - [supplement.pdf](https://github.com/alexeyvkuznetsov/diary_topic_modeling_with_llm/blob/main/supplement.pdf)
+
 Визуализация распределения тем в дневнике - [visualisation.ipynb](https://github.com/alexeyvkuznetsov/diary_topic_modeling_with_llm/blob/main/visualisation.ipynb)
